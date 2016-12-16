@@ -6,6 +6,8 @@ import merkle.implementation.SumHash;
 /**
  * This is the interface for the HashFunction this is implemented by MD5 and SumHash
  * DO NOT UPLOAD THIS FILE
+ * 
+ * NOT WRITTEN BY ME
  */
 public interface HashFunction {
     public enum Type {
