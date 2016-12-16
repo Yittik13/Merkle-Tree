@@ -8,6 +8,8 @@ import java.security.NoSuchAlgorithmException;
 /**
  * This implements https://en.wikipedia.org/wiki/MD5
  * DO NOT UPLOAD THIS FILE
+ *
+ * NOT WRITTEN BY ME
  */
 public class MD5 implements HashFunction {
     private MessageDigest md5;
